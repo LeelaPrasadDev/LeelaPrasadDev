@@ -53,9 +53,9 @@
 
 📧 Email: leelaprasadpottangi@gmail.com
 
-💼 LinkedIn: Coming Soon
+💼 LinkedIn: [Leela Prasad](https://www.linkedin.com/in/leela-prasad-pottangi-416625241)
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: [Visit My Portfolio](https://portfolio-one-orpin-8wrxqgi4x6.vercel.app)
 
 ---
 
