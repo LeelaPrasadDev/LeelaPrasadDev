@@ -17,7 +17,7 @@
 ### Programming Languages
 
 - Java
-- Python
+- Python (Advanced)
 - JavaScript
 - C
 
